@@ -1,0 +1,7 @@
+[21-Jan-2021 14:37:59 America/Chicago] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/mariondo/mariorolandobaker.com/connections/connection.php on line 17
+[21-Jan-2021 14:37:59 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home3/mariondo/mariorolandobaker.com/connections/connection.php on line 17
+[21-Jan-2021 14:56:18 America/Chicago] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home3/mariondo/mariorolandobaker.com/scripts/sc_emails.php on line 30
+[21-Jan-2021 14:56:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/mariondo/mariorolandobaker.com/connections/connection.php:25) in /home3/mariondo/mariorolandobaker.com/scripts/sc_emails.php on line 33
+[21-Jan-2021 14:56:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/mariondo/mariorolandobaker.com/connections/connection.php:25) in /home3/mariondo/mariorolandobaker.com/scripts/sc_emails.php on line 33
+[21-Jan-2021 14:58:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/mariondo/mariorolandobaker.com/scripts/sc_emails.php:22) in /home3/mariondo/mariorolandobaker.com/scripts/sc_emails.php on line 34
